@@ -1,2 +1,10 @@
 This file is to make a good git commit message.
  Thisis is to test the git diff.
+
+ Line 1
+ Line 1
+ Line 1
+ Line 1
+ Line 1
+ Line 1
+ Line 1
